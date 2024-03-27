@@ -1,0 +1,16 @@
+.ant-tabs-nav::before{
+    border-bottom: 1px solid #1A1635!important;
+}
+.ant-tabs .ant-tabs-tab-btn{
+    color: #fff;
+    font-size: 18px;
+    font-family: "Mark Simonson";
+
+}
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #fff;
+
+}
+.ant-tabs .ant-tabs-ink-bar{
+    background: #0A8BEC;
+}

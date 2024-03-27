@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  gap: 1.5rem;
+  color: #ffffff;
+  align-items: baseline;
+  .title {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    h1 {
+      font-size: 30px;
+      font-weight: 400;
+      font-family: "Helvetica Neue";
+    }
+    .subtitle {
+      display: flex;
+      gap: .8rem;
+      font-size: 20px;
+      font-weight: 300;
+      font-family: "Mark Simonson";
+      .line {
+        width: 1px;
+        background-color: #ffffff;
+      }
+    }
+  }
+}
