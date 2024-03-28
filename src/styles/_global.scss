@@ -14,3 +14,27 @@
 .ant-tabs .ant-tabs-ink-bar{
     background: #0A8BEC;
 }
+.ant-tabs .ant-tabs-tab {
+    padding: .5rem 5rem;
+}
+.ant-tabs .ant-tabs-tab+.ant-tabs-tab{
+    margin: 0;
+}
+
+//results
+.ant-segmented .ant-segmented-item-selected{
+    background-color: #1A1635!important;
+    color: #fff;
+}
+.ant-segmented{
+    background: transparent;
+    color: #fff;
+    border: 1px solid #1A1635;
+    padding: 0;
+}
+.ant-segmented .ant-segmented-item-label {
+    padding: .2rem 1.8rem;
+}
+.ant-segmented .ant-segmented-item:hover:not(.ant-segmented-item-selected):not(.ant-segmented-item-disabled){
+    color: #fff;
+}

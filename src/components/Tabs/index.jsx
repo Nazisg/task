@@ -1,33 +1,36 @@
-import { Tabs } from 'antd';
-import React from 'react'
+import { Badge, Tabs } from 'antd';
+import React from 'react';
+import Results from '../../tabs/Results';
+
 const items = [
     {
         key: '1',
-        label: 'Live',
+        label: (
+            <span>
+                <Badge color="red" /> Live
+            </span>
+        ),
         children: 'Content of Tab Pane 1',
     },
     {
         key: '2',
         label: 'Startlist',
-        children: 'Content of Tab Pane 2',
     },
     {
         key: '3',
         label: 'Schedule',
-        children: 'Content of Tab Pane 3',
     },
     {
         key: '4',
         label: 'Results',
-        children: 'Content of Tab Pane 3',
+        children: <Results />,
     },
     {
         key: '5',
         label: 'Medals',
-        children: 'Content of Tab Pane 3',
     }
 ];
 export default function Tab() {
     return (
-        <Tabs  defaultActiveKey="1" items={items}  />)
+        <Tabs defaultActiveKey="1" items={items} />)
 }

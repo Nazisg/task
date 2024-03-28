@@ -1,5 +1,7 @@
-#root{
+body{
     background-color: #080915;
+}
+#root{
     display: flex;
     justify-content: center;
 }
@@ -7,4 +9,8 @@
     width: 80%;
     padding: 3rem 0;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-family: "Helvetica Neue";
 }
