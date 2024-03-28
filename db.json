@@ -1,0 +1,104 @@
+{
+  "resultsTable": [
+    {
+      "id": 1,
+      "Flag": "https://s3-alpha-sig.figma.com/img/dfed/1930/1096202311c65a63b3c1291496bfb40d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BUovUCpEz5QB8ym1EsHcGLAFLnCEwyEA3iL0KZ8IdoRhtLzifP-Vc7js9pWMPG7Z8nKN49YNdBV85VOVbtkGeSa~7-bFhr1QIByJtysQ5Qz4d8ZPEWhpCSYZMgT6WGcZ2zRv0sD-MzyhZK6dtv16n~wMGtLx0O-1V0BrrR05~48ps7GW-oD2rbI0oqACpDluj0jVaB~3qlk5ld83K7C6m0v5DZLEEfwntTLC6og3GMIt~r9gOicgRQVNEJGJDEC846xxMSgDgeMPyCONySuLTZqo907VLLpnKLTzItu97Z4uKmHj1Z86LMn6oapf81kwp715euFYSgfI8W90JBlewQ__",
+      "Team": "RUS",
+      "Bib": 212,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 2,
+      "Flag": "https://s3-alpha-sig.figma.com/img/0795/983c/6be356696d0155f6dcca2f1923445739?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aSBTtgMtjft1-v8GoLRsmQOqszEUxei5o17oupbkf-YD-ZVAvQhFbfO3-3iv14AdvAPLKG1L7keconZ9zNdLlx3zGs1rb-FPY9JbWFgn8g~fv7~Y~EBdBSx9QTYWfmkuEQvswXT2KLdNtkcCOD3D5Jlw8Qa~99xIJnDpd45TbBATCMJJhcHprhBV9TAYOfOzotIQ7daYTTzkj5Mwrry4JF1wzrEIeGFCqGPKzbLNuekfLpMydmAmOMFvDuMPXzZoOrrV~4OtxYuccA4tRjP2mUYRdFxTLE5lrl~2A-mXrza~oXsbxd9RbngBNMpmHTqiDgDKIoyiBYXkPTlaz2BdJQ__",
+      "Team": "EST",
+      "Bib": 132,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 3,
+      "Flag": "https://s3-alpha-sig.figma.com/img/4957/7db3/01bb28ff756def3869e0b4a9f61a090f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C3~f2KvilXYnq-KFLF8vZuqiYVNwUtYDumiZkkO79K8L41jHL7p0bbL9En1p~CnTwyuYERpDeTuf5R6DSvkknTZ1d8bJukj8iZsISr14n3K1yXpzqCti5V0U4BNgXiuwHnA436Q1qgZiRyjSKb-3rQTv4XxztyMg7mNDappZILjL5CZblhe1q4f4~ANEh5f-35GSBrZF5SoSMdo-kXLGPv1K6fLv3AGEzVktqJEza6IOttdsds4fU71ByjZ7U8sRoJzb3sRp~Mo-UMb3famao0Ik0Jgr9WYDHxaZE5gOXMTqclNtpt8M0BHfgIFDueWyDD3~Lg3WnvpvV-gKKK7z4g__",
+      "Team": "POR",
+      "Bib": 624,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 4,
+      "Flag": "https://s3-alpha-sig.figma.com/img/1968/2cd0/2f61c3e18e40b6f1f0a5332e2b3bb209?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SJc9kq3UK0kF8~H~w1G4R7ZXFP~7lcu3XW6bRwM-jJkmmTc9WokJt-ePxru9yqHsPkrkYDw0m4iHCudIZp3FM7vM7mEwrbH63-MeFnJnlVSq0cU2cCbw4NGZJjWenFf-NIbS3BOMLoSrqn062Pedfg51TH86CR8Xstf7Dvgp-HT1T6gb1yG~O4xIluUAP2dOZKx3SXw7ykbEYkcA9uMoYb2hIr-pVAh5hEeGh1Q8qeTQTJx7MeX1FmxjKIlScPw88ieQriVMzLMdLB14Ln8-7PhGRb61EbxK2sM0WuDtVW4sKepS9Wb6TY~A1w4feeDJjTzfKOuKF4LsBDHdvXrcgw__",
+      "Team": "ISR",
+      "Bib": 624,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 5,
+      "Flag": "https://s3-alpha-sig.figma.com/img/68e7/fded/c4f9e9ed32841ce7338e275768e47dd8?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BsxQDN1G1P~9DUBVK4bci7DP6GmMDI4Q1fe7~s6WJXPwq9JePWE7rSGcRVckXMo5V94SR9XH4SMPjfFSXpt0WPtfCCoJo5avRgP-P~7KlMQpZQen1qKo2IOdKz5oNT50TVcPCjZfX1UwHrNP05e4q2O0I41VkSHk5ex-tjNHaS4RJwVIXeTQUX5M6xxf~I5DTTJCaHI52yjpZz3ja0QqCWRe4xZ9iAFyYul-nmtT06j503M~90DKGESY0jGyeCeJo~gnhrlBF2fnBo0dhkLt0cQSPKvUG-8q39QXzsu129qnpuFX6I9GgDm6k899q6nqGax7lT3o51NUWWIvIzLyTg__",
+      "Team": "POL",
+      "Bib": 401,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 6,
+      "Flag": "https://s3-alpha-sig.figma.com/img/d8fb/9e79/871bf34dec0625e0dcee64d48fa3b411?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=e5xkVhEk8bRp~B2GEWMNlK3tlzAZ0wWgvxB8pqkeY613GrcTeGtP6fLJw3yEtzd43sZ0QA8qMNILWDECQNSM4Qxht5~S59rNdQodQyywGYf38AJhgRM1YEEgNNTybsF3Y5j7RW-TAt0ZRp5PpXzKNK4t4y2pUx9RdXzHovWhVhp8LBxI4bThh5Tu-3YmgPeIBkuVpiDdDepwxRI3K26WuaOoGhM85lhTBSkxgTHYPpr3HiR3GP7dEEzhpBQ0nLWjcfHUG0xb4RqaSC1t9WPxQoFLHl7vulTH9tmF3OdY47WzicEUPJ2Pa6Ag-aGyPITu6ABQu4r-Op24~BFiZVj-1A__",
+      "Team": "NED",
+      "Bib": 102,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    },
+    {
+      "id": 7,
+      "Flag": "https://s3-alpha-sig.figma.com/img/4496/c72d/61f0bd45b07e2cb3c89039306cfeab6a?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BD7B~SBWs~ePJple1OFOrfV-AT8cUTmQ08-totxOQDNHUoCsvVSINyLxZgVYSGgZQjW5xVgIrlAI1JUz0V4OY6obRqtbNCssrJXwVcWonIcXU91oB-C3R2lrUWMMfybwahq2a0EVewmLufJmzAbIGqNk7Ta-t3jGYbu8yEncySsCJ4NnARGF1aem84LW1Xbc9Gb9lFnTaXpoFfLRCMxk9cN68bfO9TgAM~a8a4t4wdnKEee~84WtGDwbw4~RlYYo2tYQnnLkhhdQRrA7y0zyMlKxzG38SnO1ifUTbVSYQpubKAMkA83yX6Os7fc8Q7Lz1mQl7dejzvUUzuvQv7JT~A__",
+      "Team": "GBR",
+      "Bib": 102,
+      "Name": "Bonartery Arisandr",
+      "D": [43.833, 43.833],
+      "E": [43.833, 43.833],
+      "Pen": [43.833, 43.833, "Score"],
+      "Total": [102.255, 102.255, 102.255]
+    }
+  ],
+  "liveTable": [
+    {
+      "id": 1,
+      "Apparatus": "img",
+      "Flag": "img",
+      "Country": "AZE",
+      "Bib": 212,
+      "Name": "Amirbekov T.",
+      "Score": ["D: 5.400", "E: 8.800", "P: 0.3"],
+      "App": {
+        "point": 12.5,
+        "num": 7
+      },
+      "AA": {
+        "point": 102.36,
+        "num": 4
+      },
+      "Team": {
+        "point": 102.36,
+        "num": 4
+      }
+    }
+  ]
+}

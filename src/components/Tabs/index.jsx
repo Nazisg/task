@@ -1,6 +1,7 @@
 import { Badge, Tabs } from 'antd';
 import React from 'react';
 import Results from '../../tabs/Results';
+import Live from '../../tabs/Live';
 
 const items = [
     {
@@ -10,7 +11,7 @@ const items = [
                 <Badge color="red" /> Live
             </span>
         ),
-        children: 'Content of Tab Pane 1',
+        children: <Live/>,
     },
     {
         key: '2',
