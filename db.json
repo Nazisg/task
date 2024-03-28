@@ -81,8 +81,8 @@
   "liveTable": [
     {
       "id": 1,
-      "Apparatus": "img",
-      "Flag": "img",
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/4cd9/a13b/a9107877906c5f653ac871bc3aa3d7ed?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PG85dN0uR8s3mghyFZ2Cpjmq~WGa9UCLxjwybWGo114x5VukLhSelAbiiD-VV42zLZbP3r0P3trI9jfIQ24VMZF-lK9t~ZVcqEwOpmfFx51r1Hc-Nwgsh7k0sYZOJuR~cjrEqK-MVXIxffx9ne~clvxJkuEHBg~yXz~3XWsSWTFkdphHal022kpE6lnb4-p71Rz~fF6Bi2Rz2AHg7btA5jAL2V~WZysbXeMApxij1YD~ItTypcni~Ia0Qdl06q~KpPJep8A0catmxHJF8aZ1kUC8I20xQ5fktJ0o-mtki3sMDnmbH0z1wi-FFoOfT0wicvM1~eB-p5b432X7Mcrm~Q__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/d685/a997/92763b743598308603bdafc251d03b73?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kfMeCPDc317n5E3xJnqtAHaDfM-NO7842xWygETLUrZSxj6weTZshCnRq6kcP7~ZhMGvBykuXukLwA6FVNMWg0h4SC-dmIhf0aaG~Mot9NaNWax-XuQl03ZlyFn0qmrlhO1wqK9OBZpAECemvBgf1LKw6mVIO68H2oDEc65lIv8y98E5UfF518h6iVzz5BTIq2VYMDpiVcsNqOgQADiAfLMFpq2T8kv0loXeBzBXxWF2HizlLiKNQc-d6ha2Q1uOEsf~r29Ejtzs~GTEVL-VIMdau2jZE82ZLih7MZkey8qZeGBTUFx3oOkhiJv6UsGkY88nSREPi9qaKZp1DwI97g__",
       "Country": "AZE",
       "Bib": 212,
       "Name": "Amirbekov T.",
@@ -98,6 +98,87 @@
       "Team": {
         "point": 102.36,
         "num": 4
+      }
+    },
+    {
+      "id": 2,
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/2e2a/8ef1/17171270765c9f3cbf690ac0c0eecbfc?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JPk2qi44oY7t1mrmF8vxnaGTyEobwQAHc6Oqh77YC8Igng2OlVKif~lvuOgEgnUu~bdXVN-QGojcr8vWhJeWu5e6guJFgUUe9Jxi2uqV5w4dr5PIOTr5UFxcli0uHzHFSQQIaya295e6CJ3IZ~g1WL4q9WCN5Qdbaf3AiRpmjLWJ2UDJevIG-l-lpR3Fc3q0rdg1BfjiiPs3-H1TafmLfs6LteUFNDaoy-TUCArY8Mz631eTS6hvksRvUrsmdXsorAiIyVY6aP4WtlLTFVHvph3YGd65fZdqRTilG07oCY2YD~doaBKhCiLzklDKUvzc3F2BI9MOtpGXYhoVCIrwtw__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/dfed/1930/1096202311c65a63b3c1291496bfb40d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BUovUCpEz5QB8ym1EsHcGLAFLnCEwyEA3iL0KZ8IdoRhtLzifP-Vc7js9pWMPG7Z8nKN49YNdBV85VOVbtkGeSa~7-bFhr1QIByJtysQ5Qz4d8ZPEWhpCSYZMgT6WGcZ2zRv0sD-MzyhZK6dtv16n~wMGtLx0O-1V0BrrR05~48ps7GW-oD2rbI0oqACpDluj0jVaB~3qlk5ld83K7C6m0v5DZLEEfwntTLC6og3GMIt~r9gOicgRQVNEJGJDEC846xxMSgDgeMPyCONySuLTZqo907VLLpnKLTzItu97Z4uKmHj1Z86LMn6oapf81kwp715euFYSgfI8W90JBlewQ__",
+      "Country": "RUS",
+      "Bib": 132,
+      "Name": "Amirbekov Teymur",
+      "Score": "Wait"
+    },
+    {
+      "id": 3,
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/13b1/67d2/1f3d09e183acd44b60b441f9a979ad26?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W83TcglXl7NDgZXSc1d8RrDrKCza7DPOXaIT7g22pNqAcIs964RJnU0oJNwEJoFJYPiuiUEM2yPfA4TppCkvg02z6MA1QchinXeOYutjWQ9EnN6ZtIIIFyZtQ51ZCH3las-5~u4GWpOJ7GtotA2Lsi2-ynJj04UbBgRIaR4UpWIMspL-omPZsbDxT0ipDlu0WBojtPks3xeMW5icjkTI3xB7E7ZahQW-v3rVwDFm~4tQu0Kuh4nPv12ql0E5GM7XAnpWOH2Hdi8Q73at8pexz3ahRfsATeH2Rd4PNpv5Cu9uI9KOljL38Aaj79Dg4sC17FeDnXQ2jcR6XfUGelIbNA__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/ad45/c514/f8cdcba886aa3e6be1c15056c7233550?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gg87z25VP1pnzHPlmxO7sQAVFv4uHUvY3ExnchifHydglnlSH6Jkg7iea4fYBzmX16V4y1d6T0NFYPqHL-XFQt3G805pOx-dWKjI3SOzBlT0em42LgC-88ci-hzolEb7ti7akp~ubBIKFOAk7DESO0yWafyBYazy6YxmuBR-X4hlA2vjs31pj0wiObjXCJaAtfSe2A~rwBFcysniSL3bBJXL~1flomYg6xI2qoMDSwCi9nfFxVTHvzMTIv2L~Mpm~ZExz8N0uilKwbsVOISiFHyduIZQDlj5W-vWz9qq~vxey4Wxl0btuWC3RJI16LgWpdAky3Mh~7ai8UhQxgX9QA__",
+      "Country": "TUR",
+      "Bib": 624,
+      "Name": "Terim F.",
+      "Score": ["D: 5.400", "E: 8.800", "P: 0.3"],
+      "App": {
+        "point": 12.5,
+        "num": 7
+      },
+      "AA": {
+        "point": 102.36,
+        "num": 4
+      },
+      "Team": {
+        "point": 102.36,
+        "num": 4
+      }
+    },
+    {
+      "id": 4,
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/0990/9582/20cb988148873c7ce1554b635e47f40f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bnjZvmYUJp8hMMBDh0QfXhq-GmuZyE-0Fz9GCgCeGHN7SvrChb0j02nnbWSeyM~QHP7MICQMe9rCgWgZhEy3Or98WwTQN58iR5N4Npp7cfL4qEBG-yDU1gsdgOfkidYmTXekrG-hfpvuqtCmYpdfBIpaMAg~IQJZbgkCCrVWPEo2gXAmIJXiSE6MkDmE0B0W-srBmtx3N4N5IxZoVrBndHa59AeESfLAc3eN1-PqM23hhC1ACVllIfUwXKnLYQ5AvMWMO1P0vesEEFQIjVNX4ffBeSh3GOjyQeAvvhXgQWC27XLcohRQLv6zrhQxB6Hqfo8P4xIR0fltqJLSQdExmg__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/dfed/1930/1096202311c65a63b3c1291496bfb40d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BUovUCpEz5QB8ym1EsHcGLAFLnCEwyEA3iL0KZ8IdoRhtLzifP-Vc7js9pWMPG7Z8nKN49YNdBV85VOVbtkGeSa~7-bFhr1QIByJtysQ5Qz4d8ZPEWhpCSYZMgT6WGcZ2zRv0sD-MzyhZK6dtv16n~wMGtLx0O-1V0BrrR05~48ps7GW-oD2rbI0oqACpDluj0jVaB~3qlk5ld83K7C6m0v5DZLEEfwntTLC6og3GMIt~r9gOicgRQVNEJGJDEC846xxMSgDgeMPyCONySuLTZqo907VLLpnKLTzItu97Z4uKmHj1Z86LMn6oapf81kwp715euFYSgfI8W90JBlewQ__",
+      "Country": "FRA",
+      "Bib": 624,
+      "Name": "Terim F.",
+      "Score": "Go"
+    },
+    {
+      "id": 5,
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/5f72/663d/eba736ffbc22813db9220b6cf9e385b9?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LEDFA-y8QM53rknbPGCyLFPKOdKfeb-KBFijTCyMrX5lCNuBdCOPj6Ijh-TzTfvH429A-Aj2TQsfrZJyt~8LG3KIABrNvuRMWPpktIuj~bzSpzmaXkAR-2WXf4NVwUgiftZRtz3DwJFfF8B4Edwg99QKO5qIcPqu4sWQu68WdPogZua8AYKhl0Fh0Syi88eZOuC9Lc8jzLVh0fxdkDwaDzCq4pytrLuX~Wx3BcmtvZpnSeUMdq9ojL~CjvYU5KhRKXdoFBlyqYEL-kvSq8NM0YjGrC5uOlBFq5l6CWaqM588p2ApCu-U9UsXQPLMuG~Z-eGEMv6XWCY6O9wSUtPx7g__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/1968/2cd0/2f61c3e18e40b6f1f0a5332e2b3bb209?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SJc9kq3UK0kF8~H~w1G4R7ZXFP~7lcu3XW6bRwM-jJkmmTc9WokJt-ePxru9yqHsPkrkYDw0m4iHCudIZp3FM7vM7mEwrbH63-MeFnJnlVSq0cU2cCbw4NGZJjWenFf-NIbS3BOMLoSrqn062Pedfg51TH86CR8Xstf7Dvgp-HT1T6gb1yG~O4xIluUAP2dOZKx3SXw7ykbEYkcA9uMoYb2hIr-pVAh5hEeGh1Q8qeTQTJx7MeX1FmxjKIlScPw88ieQriVMzLMdLB14Ln8-7PhGRb61EbxK2sM0WuDtVW4sKepS9Wb6TY~A1w4feeDJjTzfKOuKF4LsBDHdvXrcgw__",
+      "Country": "ISR",
+      "Bib": 401,
+      "Name": "Wiltord T.",
+      "Score": ["D: 5.400", "E: 8.800", "P: 0.3"],
+      "App": {
+        "point": 12.5,
+        "num": 16
+      },
+      "AA": {
+        "point": 102.36,
+        "num": 8
+      },
+      "Team": {
+        "point": 102.36,
+        "num": 17
+      }
+    },
+    {
+      "id": 6,
+      "Apparatus": "https://s3-alpha-sig.figma.com/img/bb6f/0c39/34bee58664ce60b85107bd363d51eb2f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EhkFaGVRlLhsmHFFwuCtSfGBzGz~8GQOUv0ycTEGsqEq6IKC~cgVaawG8lMYRzS6AKN4gMiCNAzRztTsp5276YdcjolWRRvgNc56NY~eAe3D8wmv4Kv3l3RCu8~gUtx9cz7DvJzP-5MShOsBHU9IC00MYj6n7F4Pv0xoVw9Mu0QRaXm3Rr7KfFGHjI2VQAjs8K9M9qcva93mdhsYSjstPuZynTRYUF~LG7i2DP6xNoBz~30OecbikzouhALvhYj4780JU6a60OGid4ktSjup19C02OE-mYt~9KKWL5mc9mfK3u0Z66YPJIPx56npAYoTW5IwJ0zh-ZTyaG0uMF5zvQ__",
+      "Flag": "https://s3-alpha-sig.figma.com/img/edb8/f223/fd43a4e04d11f585f1e58690581a1459?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NL2EeHDuj5f-5DWmRI5KPqKwVUAnY2SmsOhieUqG6ZHZ2g2kq~~6RwAHyu1QQH15K1e2BVlMYfaL5Gm9~I4JI2zegfi1tfGK6dpyXlYQ5WP7SmByXZ0sH3F3jtYlH-d3OYl7nlwPF94drV482TEnv1WrXRgfBS2uioHd21LARajXwgZlFif3y9eEFa4eLfmsKCR9-KpWFDGZEZDFn9nBQfs2qxMkz-lyn0CC~-PQZXk7togZ9aYRAd7YJ-fy6S~~6a1Dw~FKrVgFR7qB5mGwUjodyi20VlwfiBoym1ZxXMstmCGeoqMfTuVnkswfZJ1fATCEjPKa2jAgpMotPUQhSg__",
+      "Country": "GER",
+      "Bib": 102,
+      "Name": "Bakaev J.",
+      "Score": ["D: 5.400", "E: 8.800", "P: 0.3"],
+      "App": {
+        "point": 12.5,
+        "num": 16
+      },
+      "AA": {
+        "point": 102.36,
+        "num": 8
+      },
+      "Team": {
+        "point": 102.36,
+        "num": 17
       }
     }
   ]
