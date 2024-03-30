@@ -1,40 +1,50 @@
-.ant-tabs-nav::before{
-    border-bottom: 1px solid #1A1635!important;
+.ant-tabs-nav::before {
+  border-bottom: 1px solid #1a1635 !important;
 }
-.ant-tabs .ant-tabs-tab-btn{
-    color: #fff;
-    font-size: 18px;
-    font-family: "Mark Simonson";
-
+.ant-tabs .ant-tabs-tab-btn {
+  color: #fff;
+  font-size: 16px;
+  font-family: "Mark Simonson";
 }
 .ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
-    color: #fff;
-
+  color: #fff;
 }
-.ant-tabs .ant-tabs-ink-bar{
-    background: #0A8BEC;
+.ant-tabs .ant-tabs-ink-bar {
+  background: #0a8bec;
 }
 .ant-tabs .ant-tabs-tab {
-    padding: .5rem 5rem;
+  padding: 0.5rem 2rem;
 }
-.ant-tabs .ant-tabs-tab+.ant-tabs-tab{
-    margin: 0;
+.ant-tabs .ant-tabs-tab + .ant-tabs-tab {
+  margin: 0;
 }
 
 //results
-.ant-segmented .ant-segmented-item-selected{
-    background-color: #1A1635!important;
-    color: #fff;
+.ant-segmented .ant-segmented-item-selected {
+  background-color: #1a1635 !important;
+  color: #fff;
 }
-.ant-segmented{
-    background: transparent;
-    color: #fff;
-    border: 1px solid #1A1635;
-    padding: 0;
+.ant-segmented {
+  background: transparent;
+  color: #fff;
+  border: 1px solid #1a1635;
+  padding: 0;
 }
 .ant-segmented .ant-segmented-item-label {
-    padding: .2rem 1.8rem;
+  padding: 0.2rem 1.8rem;
 }
-.ant-segmented .ant-segmented-item:hover:not(.ant-segmented-item-selected):not(.ant-segmented-item-disabled){
-    color: #fff;
+.ant-segmented
+  .ant-segmented-item:hover:not(.ant-segmented-item-selected):not(
+    .ant-segmented-item-disabled
+  ) {
+  color: #fff;
+}
+
+@media only screen and (min-width: 768px) {
+  .ant-tabs .ant-tabs-tab {
+    padding: 0.5rem 5rem;
+  }
+  .ant-tabs .ant-tabs-tab-btn {
+    font-size: 18px;
+  }
 }

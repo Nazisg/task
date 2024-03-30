@@ -38,13 +38,13 @@ export default function Live() {
                     {
                         liveData.map((data, index) => (
                             <React.Fragment key={index}>
-
                                 <tr>
-
-                                    <td className={data.status? "td-status":"td-nostatus"}><div className={data.status &&'status'}>
-                                        {data.status && <p>{data.status}</p>}
-                                        <img className='apparat' src={data.Apparatus} alt="floor-exercise" />
-                                        </div></td>
+                                    <td className={data.status ? "td-status" : "td-nostatus"}>
+                                        <div className={data.status ? 'status' : ''}>
+                                            {data.status && <p>{data.status}</p>}
+                                            <img className='apparat' src={data.Apparatus} alt="apparatus" />
+                                        </div>
+                                    </td>
                                     <td><div className="team"><img className='flag' src={data.Flag} alt="flag" /><span>{data.Country}</span></div></td>
                                     <td>{data.Bib}</td>
                                     <td>{data.Name}</td>
@@ -96,8 +96,6 @@ export default function Live() {
                             </React.Fragment>
                         ))
                     }
-
-
                 </tbody>
             </table>
         </div>

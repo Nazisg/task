@@ -5,7 +5,7 @@ import arrowLeft from '../../assets/imgs/arrow-left.svg'
 export default function Header() {
     return (
         <div className={styles.header}>
-            <img src={arrowLeft} />
+            <img className={styles.arrow} src={arrowLeft} />
             <div className={styles.title}>
                 <h1>FIG ARTISTIC GYMNASTICS WORLD CUP</h1>
                 <div className={styles.subtitle}>
