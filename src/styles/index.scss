@@ -14,26 +14,3 @@ body {
   gap: 2rem;
   font-family: "Helvetica Neue";
 }
-.team.score button {
-  color: #fff;
-  border: none;
-  padding: 4px 40px;
-  border-radius: 8px;
-  cursor: pointer;
-}
-.wait {
-  background-color: #f5a100;
-}
-.go {
-  background-color: #02d169;
-}
-.status{
-  display: flex;
-  color: #FF9C07;
-}
-// .td-status{
-//   width: 200px;
-// }
-.td-nostatus{
-  width: 160px;
-}

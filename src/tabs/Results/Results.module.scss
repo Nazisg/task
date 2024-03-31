@@ -24,43 +24,40 @@
       padding: 0.5rem 1rem;
       cursor: pointer;
     }
-
   }
-  .tags{
+  .tags {
     display: flex;
-      .tag{
-        background-color: #0A8BEC;
-        color: #fff;
-        display: flex;
-        align-items: center;
-        font-size: 14px;
-
-        gap: 0.3rem;
-        border-radius: 20px;
-        border: none;
-        padding: 0.3rem 0.8rem;
-      }
-    
-  }
-}
-  @media only screen and (min-width: 768px) {
-    .results {
-      .segment {
-        display: flex;
-        justify-content: center;
-      }
-      .imgs {
-        display: flex;
-        justify-content: center;
-      }
-     
-      .btnBox {
-        .filterBtn {
-          display: none;
-        }
-      }
-     .tags{
-      display: none;
-     }
+    .tag {
+      background-color: #0a8bec;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+      gap: 0.3rem;
+      border-radius: 20px;
+      border: none;
+      padding: 0.3rem 0.8rem;
     }
   }
+}
+@media only screen and (min-width: 768px) {
+  .results {
+    .segment {
+      display: flex;
+      justify-content: center;
+    }
+    .imgs {
+      display: flex;
+      justify-content: center;
+    }
+
+    .btnBox {
+      .filterBtn {
+        display: none;
+      }
+    }
+    .tags {
+      display: none;
+    }
+  }
+}

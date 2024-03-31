@@ -1,59 +1,89 @@
 .tableContainer {
+  width: 100%;
+  margin-top: 1rem;
+  font-family: "Mark Simonson";
+  table {
+    color: #fff;
     width: 100%;
-    margin-top: 1rem;
-    font-family: "Mark Simonson";
-
-    table {
-      color: #fff;
-      width: 100%;
-    //   th,td,tr ,table{
-    //       border: 1px solid red;
-    //   }
-      tr {
-          // position: relative;
-        th {
-          text-align: left;
-        }
+    border-collapse: collapse;
+    tr {
+      th {
+        text-align: left;
       }
-      .center {
-        text-align: center;
+    }
+    .center {
+      text-align: center;
+    }
+    .yellow {
+      color: #ff9c07;
+    }
+    tr {
+      td {
+        text-align: start;
+        padding: 1rem 0;
+        vertical-align: top;
       }
-      .yellow {
+      .rank {
+        padding: 2px 10px;
+        background-color: #0a8bec;
+        max-width: 27px;
+        display: flex;
+        justify-content: center;
+      }
+      .team {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+      }
+      .app {
+        justify-content: center;
+      }
+      .apparat {
+        width: 40px;
+        height: 30px;
+      }
+      .score {
+        gap: 1rem;
+      }
+      .tdDown {
+        display: none;
+      }
+      .jcenter {
+        justify-content: center;
+      }
+      .flag {
+        width: 18px;
+        height: 12px;
+      }
+      .team.score button {
+        color: #fff;
+        border: none;
+        padding: 4px 40px;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+      .wait {
+        background-color: #f5a100;
+      }
+      .go {
+        background-color: #02d169;
+      }
+      .down {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      .status {
+        display: flex;
         color: #ff9c07;
       }
-      tr {
-        td {
-          text-align: start;
-          padding-top: 1.5rem ;
-          vertical-align: top;
-        }
-        .rank {
-          padding: 2px 10px;
-          display: inline-block;
-          background-color: #0a8bec;
-        }
-        .team {
-          display: flex;
-          gap: 0.5rem;
-          align-items: center;
-        }
-        .app{
-            justify-content: center;
-        }
-        .apparat{
-            width: 40px;
-            height: 30px;
-        }
-        .score{
-            gap: 1rem;
-
-        }
-        .flag{
-            width: 18px;
-            height: 12px;
-        }
-      }
+    }
+    .detail-top {
+      display: none;
+    }
+    .rowLine {
       .line {
+        display: block;
         width: 100%;
         height: 1px;
         background: rgb(106, 33, 244);
@@ -71,4 +101,69 @@
       }
     }
   }
-  
+}
+// .td-status{
+//   width: 200px;
+// }
+// .td-nostatus{
+//   width: 160px;
+// }
+
+@media only screen and (max-width: 850px) {
+  .tableContainer {
+    table {
+      tr {
+        td:first-child {
+          padding-left: 10px;
+        }
+        background-color: #1a1635;
+        border: #1a1635;
+        th {
+          display: none;
+        }
+        .status {
+          flex-direction: column;
+        }
+        .team.score button {
+          padding: 3px 20px;
+        }
+      }
+      .rowLine {
+        background-color: transparent;
+        td {
+          padding: 0.5rem 0;
+        }
+        .line {
+          display: none;
+        }
+      }
+      .none {
+        display: none;
+      }
+      .detail-top {
+        display: table-cell;
+        border-top: 1px solid #080915;
+        .detail {
+          background-color: #1a1635;
+          margin-top: 2px;
+          padding: 0 1rem;
+          .dScore {
+            display: flex;
+            justify-content: flex-end;
+            gap: 0.8rem;
+          }
+          .dApp {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 0.4rem;
+            .wrap {
+              flex-wrap: wrap;
+              justify-content: end;
+              padding-left: 5px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

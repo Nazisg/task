@@ -1,6 +1,6 @@
 import React from 'react'
+import arrowLeft from '../../../assets/imgs/arrow-left.svg'
 import styles from './Header.module.scss'
-import arrowLeft from '../../assets/imgs/arrow-left.svg'
 
 export default function Header() {
     return (
