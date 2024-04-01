@@ -1,5 +1,5 @@
 import Tab from "./components/Tabs"
-import Header from "./layout/Header"
+import Header from "./components/Header"
 
 function App() {
 

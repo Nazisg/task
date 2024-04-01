@@ -7,8 +7,6 @@ import './styles/_fonts.scss'
 import './styles/_global.scss'
 import './styles/table.scss'
 
-// npx json-server --watch db.json
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />

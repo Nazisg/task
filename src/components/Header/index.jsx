@@ -1,5 +1,5 @@
 import React from 'react'
-import arrowLeft from '../../../assets/imgs/arrow-left.svg'
+import arrowLeft from '../../assets/imgs/arrow-left.svg'
 import styles from './Header.module.scss'
 
 export default function Header() {
